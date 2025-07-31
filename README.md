@@ -1,6 +1,6 @@
 # 📚 BCA Resource Management System
 
-A **full-stack web application** designed to streamline the management of academic resources for a BCA (Bachelor of Computer Applications) program. It offers secure role-based access for **Students**, **Teachers**, and **Admins**, enabling seamless upload, access, and management of digital learning materials.
+A **full-stack web application** designed to streamline the management of academic resources for a BCA (Bachelor of Computer Applications) program. It offers secure role-based access for **Students**, **Teachers**, and  enabling seamless upload, access, and management of digital learning materials.
 
 ---
 
