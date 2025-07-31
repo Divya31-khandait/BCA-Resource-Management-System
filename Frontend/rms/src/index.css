@@ -1,0 +1,7 @@
+/* Import everything from Tailwind v4 */
+@import "tailwindcss";
+
+/* Your custom styles: */
+body {
+  @apply bg-gray-50 text-gray-800;
+}
