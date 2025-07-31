@@ -37,6 +37,22 @@ A **full-stack web application** designed to streamline the management of academ
   - Full platform control
 
 ---
+**Project Structure**
+resource_management/
+├── Backend Api/
+│   ├── server.js (main backend file)
+│   ├── uploads/ (ebooks, question papers, etc.)
+│   ├── node_modules/
+│   ├── package.json
+│   └── ...
+├── Frontend/
+│   └── rms/
+│       ├── src/ (React app code)
+│       ├── public/
+│       ├── node_modules/
+│       ├── package.json
+│       └── vite.svg
+├── README.md ✅
 
 
 
